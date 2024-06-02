@@ -1,1 +1,2 @@
-This is chapter 3 and it's Phase 1.
+This is chapter 3 and it's Phase 2.
+I have made changes in this chapter 3.
